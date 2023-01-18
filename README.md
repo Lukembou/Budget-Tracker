@@ -24,3 +24,6 @@ The plugins that we utilize are are as follows- <h2>
   - 27-28 set the date and naming format including date
 
   - 29-30 set the lists
+  
+  - We then say that we want a bar graph with the lists we made
+  - Then we name the bars in the graph and pick the formatting for the chart
