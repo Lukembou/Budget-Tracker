@@ -27,3 +27,5 @@ The plugins that we utilize are are as follows- <h2>
   
   - We then say that we want a bar graph with the lists we made
   - Then we name the bars in the graph and pick the formatting for the chart
+  - 43-44 is saying to open a the .json file and dump all the stored data in it into the program
+  This allows us to come back later with another section of code to continually add expenses into this file
