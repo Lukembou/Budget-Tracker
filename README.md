@@ -9,7 +9,7 @@ The plugins that we utilize are are as follows- <h2>
   
 <b>-matplotlib<b>
 
-<h2> Main body
+<h2> Main body<h2>
 
   ![Screenshot_20230118_020529](https://user-images.githubusercontent.com/112616414/213122673-a1ff76f1-8c79-4fd2-8b2f-87ae5e0af4d6.png)
  
