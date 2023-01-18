@@ -13,4 +13,4 @@ The plugins that we utilize are are as follows- <h2>
 
   ![Screenshot_20230118_020529](https://user-images.githubusercontent.com/112616414/213122673-a1ff76f1-8c79-4fd2-8b2f-87ae5e0af4d6.png)
  
-  We make an empty list so we can prompt the user for income and savings goals then subtracting the savings to give us a budget for the rest of the month
+  <b>We make an empty list so we can prompt the user for income and savings goals then subtracting the savings to give us a budget for the rest of the month<b>
