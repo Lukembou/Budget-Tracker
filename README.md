@@ -3,6 +3,8 @@ This program is a farily simple budget tracking tool that allows the user to inp
 
 <h2>The plugins that we utilize are are as follows- <h2>
 <b>-json<b>
-<b>-datetime<b><
+  
+<b>-datetime<b>
+  
 <b>-matplotlib<b>
 
