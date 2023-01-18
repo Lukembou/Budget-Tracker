@@ -49,6 +49,11 @@ The plugins that we utilize are are as follows- <h2>
 
 ![Screenshot_20230118_020439](https://user-images.githubusercontent.com/112616414/213132736-c333077d-e6f4-4784-a799-a3012ed7fe9f.png)
   
-  <b> Closing this out, I hope you can understand what is happening with this code and more importantly how it can be used in many different situations. This project opened my eyes to many possibilities with data tracking and input.
+  <b> Closing this out, I hope you can understand what is happening with this code and more importantly how the principles can be used in many different situations. 
     
+    - This is just a simple program but a lot more can be added like: automated expense tracking, emailing, and web scraping.
+    - You can also go very in depth with the matplotlib to give you more complex and visually pleasing graphs.
+    - All in all I hope you can find this useful and deploy these methods to make your life easier
+    
+    Thanks!
     
