@@ -5,6 +5,5 @@ This program is a farily simple budget tracking tool that allows the user to inp
 <b>-json<b>
   
 <b>-datetime<b>
-  
 <b>-matplotlib<b>
 
