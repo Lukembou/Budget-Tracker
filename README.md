@@ -19,3 +19,4 @@ The plugins that we utilize are are as follows- <h2>
   
   <b> -Line 20-24 basically says that if you dont input a subcategory then it will leave it blank<b>
  
+![Screenshot_20230118_020557](https://user-images.githubusercontent.com/112616414/213126736-e4683bbb-6529-4dc0-883f-bcbcee8972de.png)
