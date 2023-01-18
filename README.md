@@ -53,6 +53,7 @@ The plugins that we utilize are are as follows- <h2>
    - This is just a simple program but a lot more can be added like: automated expense tracking, emailing, and web scraping
    - You can also go very in depth with the matplotlib to give you more complex and visually pleasing graphs
    - All in all I hope you can find this useful and deploy these methods to make your life easier
+   - If you have any questions message me!
     
     Thanks!
     
