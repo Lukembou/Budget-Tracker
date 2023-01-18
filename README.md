@@ -15,5 +15,6 @@ The plugins that we utilize are are as follows- <h2>
  
 -Make an empty list so we can prompt the user for income and savings goals then subtracting the savings to give us a budget for the rest of the month<h2>
   -We then make a while loop to prompt the user for expenses and save it to a function
+  
   -Line 20-24 basically says that if you dont input a subcategory then it will leave it blank
  
