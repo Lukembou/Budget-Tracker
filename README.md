@@ -43,7 +43,7 @@ The plugins that we utilize are are as follows- <h2>
   
   - Once finished, the program will generate a .jason file (which stores the budget and expense information that was inputed)
   
-  - It will also generate a .png file which will be the graph
+  - It will also generate a .png file which will be the expense chart
   
   ![Screenshot_20230118_020410](https://user-images.githubusercontent.com/112616414/213131316-1f0c2d51-d99a-4dab-af3a-45c36af364ff.png)
 
