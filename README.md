@@ -49,4 +49,4 @@ The plugins that we utilize are are as follows- <h2>
 
 ![Screenshot_20230118_020439](https://user-images.githubusercontent.com/112616414/213132736-c333077d-e6f4-4784-a799-a3012ed7fe9f.png)
   
- h2> Closig this out, I hope you can understand what is happening with this code and more importantly how it can be used in many different situations.
+ h2> Closing this out, I hope you can understand what is happening with this code and more importantly how it can be used in many different situations.
