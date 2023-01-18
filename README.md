@@ -21,5 +21,6 @@ The plugins that we utilize are are as follows- <h2>
  
 ![Screenshot_20230118_020557](https://user-images.githubusercontent.com/112616414/213126736-e4683bbb-6529-4dc0-883f-bcbcee8972de.png)
 
-    -Lines 27-28 set the date and naming format including date
-    -Lines 29-30 set the lists
+  -Lines 27-28 set the date and naming format including date
+
+  -Lines 29-30 set the lists
