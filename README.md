@@ -1,2 +1,2 @@
 # Budget-Tracker
-Budget Tracking Tool.
+This program is a budget tracking tool that allows the user to input their monthly income and savings goal, and then add expenses to track where their money is being spent. The program then saves the data in a JSON file, and also generates a bar chart to visually represent the breakdown of expenses. The user can continue to add expenses and the program will update the JSON file and the chart accordingly. This allows the user to keep track of their spending and make adjustments to stay within their budget and reach their savings goal.
