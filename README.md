@@ -9,3 +9,4 @@ The plugins that we utilize are are as follows- <h2>
   
 <b>-matplotlib<b>
 
+<h2> The first section of this code 
