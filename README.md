@@ -37,4 +37,5 @@ The plugins that we utilize are are as follows- <h2>
 
   After starting it you will then go through the prompts
   
-  
+  ![Screenshot_20230118_020024](https://user-images.githubusercontent.com/112616414/213130919-fd9dd1d7-a30f-4b4d-9957-16957b48b2a5.png)
+
