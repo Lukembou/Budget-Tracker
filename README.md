@@ -35,3 +35,6 @@ The plugins that we utilize are are as follows- <h2>
   
 ![Screenshot_20230118_015933](https://user-images.githubusercontent.com/112616414/213130442-ee0ad18b-7a24-44eb-98d2-1ad40bcefc5b.png)
 
+  After starting it you will then go through the prompts
+  
+  
